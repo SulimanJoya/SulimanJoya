@@ -1,12 +1,8 @@
-<h2 style="color: #7dd56f"> Hi 👋, I'm Mohammad Suliman Joya!</h2>
-<p>
-	<a href="https://github.com/SulimanJoya">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="SulimanJoya" />
-	</a>
-	<a href="https://github.com/SulimanJoya">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="SulimanJoya" />
-	</a>
-</p>
+<h2> Hi 👋, I'm Mohammad Suliman Joya!</h2>
+
+[![](https://visitcount.itsvg.in/api?id=SulimanJoya&icon=5&color=3)](https://visitcount.itsvg.in)
+
+![](https://github-profile-trophy.vercel.app/?username=SulimanJoya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 🔭 I’m currently working on React, rubby and Redux<br>🌱 I’m currently learning JavaScript and React<br>👯 I’m looking to collaborate on open-source projects<br>💬 Ask me about JavaScript and ReactJS<br>🚩 Interested in Front-end development" || "Full-stack web development<br>📫 You can reach me via mail: sjoya66@gmail.com<br>🤔 I’m currently open for: An Intern or a new job opportunity<br>
 
@@ -29,6 +25,6 @@
   </div>
   <br/> <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=SulimanJoya&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SulimanJoya&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanJoya&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SulimanJoya&theme=vue&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SulimanJoya&theme=vue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanJoya&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
