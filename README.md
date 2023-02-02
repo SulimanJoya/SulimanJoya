@@ -1,8 +1,8 @@
 <h2> Hi 👋, I'm Mohammad Suliman Joya!</h2>
 
-[![](https://visitcount.itsvg.in/api?id=SulimanJoya&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SulimanJoya&icon=5&color=1)](https://visitcount.itsvg.in)
 
-![](https://github-profile-trophy.vercel.app/?username=SulimanJoya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SulimanJoya&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 🔭 I’m currently working on React, rubby and Redux<br>🌱 I’m currently learning JavaScript and React<br>👯 I’m looking to collaborate on open-source projects<br>💬 Ask me about JavaScript and ReactJS<br>🚩 Interested in Front-end development" || "Full-stack web development<br>📫 You can reach me via mail: sjoya66@gmail.com<br>🤔 I’m currently open for: An Intern or a new job opportunity<br>
 
