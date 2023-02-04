@@ -1,8 +1,8 @@
 <h2> Hi 👋, I'm Mohammad Suliman Joya!</h2>
 
-[![](https://visitcount.itsvg.in/api?id=SulimanJoya&icon=5&color=1)](https://visitcount.itsvg.in)
+---
 
-![](https://github-profile-trophy.vercel.app/?username=SulimanJoya&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=SulimanJoya&icon=5&color=3)](https://visitcount.itsvg.in)
 
 🔭 I’m currently working on Microverse tasks projects<br>
 🌱 I’m currently learning JavaScript & React<br>
@@ -15,7 +15,10 @@
 
 <h3>Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sjoya66) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sjoya66)
+<p align="left">
+<a href="https://twitter.com/sjoya66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sjoya66" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sjoya66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjoya66" height="30" width="40" /></a>
+</p>
 
 <h3>Languages and Tools:</h3>
 
