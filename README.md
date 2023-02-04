@@ -1,8 +1,6 @@
 <h2> Hi 👋, I'm Mohammad Suliman Joya!</h2>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=SulimanJoya&icon=5&color=3)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SulimanJoya&label=Profile%20views&color=0e75b6&style=flat" alt="Suliman" /> </p>
 
 🔭 I’m currently working on Microverse tasks projects<br>
 🌱 I’m currently learning JavaScript & React<br>
